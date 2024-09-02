@@ -3,7 +3,7 @@
 ## 1. ¿Qué se hace en la Regresión Logística?
 En la regresión logística, queremos ajustar unos parámetros para que nuestro modelo haga predicciones lo más precisas posible. Imagina que estás ajustando los botones de un control para que el televisor muestre la mejor imagen. En este caso, los botones son nuestros parámetros (llamados pesos y sesgo), y queremos encontrar el ajuste perfecto.
 
-## 2. ¿Cómo funcionan los Gráficos de Cáluclo?
+## 2. ¿Cómo funcionan los Gráficos de Cálculo?
 Piensa en un gráfico de cálculo como un diagrama de flujo o un mapa que muestra cómo se calculan las cosas paso a paso:
 
 - **Primero:** Calculamos un valor intermedio (llamado 𝑍) usando nuestros parámetros y datos de entrada.
